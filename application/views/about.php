@@ -71,7 +71,9 @@
 
 	<div id="body">
 	<h3>Welcome to about us</h3>
-	
+	<p>However, for most projects, git init only needs to be executed once to create a central repository—developers typically don't use git init to create their local ...</p>
+	<p>However, for most projects, git init only needs to be executed once to create a central repository—developers typically don't use git init to create their local ...</p>
+
 </div>
 
 </body>
