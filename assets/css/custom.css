@@ -1,0 +1,10 @@
+#main_top {
+    width: 100%;
+	
+    background: #333; 
+    /* height: 25px; */ 
+    /* line-height: 25px; */ color: #fff;
+    margin-bottom: 20px;
+    float: left;
+    padding: 22px;
+}
