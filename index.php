@@ -45,7 +45,7 @@ if (defined('ENVIRONMENT'))
 			exit('The application environment is not set correctly.');
 	}
 }
-
+#By Majid Khan
 /*
  *---------------------------------------------------------------
  * SYSTEM FOLDER NAME
